@@ -6,15 +6,15 @@ FastApi-приложение с базой данных кандидатов, у
 git clone https://github.com/Valeria-Fadeeva/fastapi-job-candidate.git
 cd fastapi-job-candidate
 docker-compose up
-xdg-open http://0.0.0.0:8000/
+xdg-open http://0.0.0.0:8001/
 ```
 
 ## Docs
-http://0.0.0.0:8000/docs
+http://0.0.0.0:8001/docs
 
-http://0.0.0.0:8000/redoc
+http://0.0.0.0:8001/redoc
 
-http://0.0.0.0:8000/openapi.json
+http://0.0.0.0:8001/openapi.json
 
 ## Donate
 [Tinkoff](https://www.tinkoff.ru/rm/fadeeva.valeriya96/9bLRi79066)
