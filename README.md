@@ -21,6 +21,4 @@ http://0.0.0.0:8001/openapi.json
 
 [YooMoney](https://yoomoney.ru/to/4100115921160758)
 
-[Qiwi](https://qiwi.com/n/VALERIAFADEEVA)
-
 Etherium 0x981FBf878fe451BDB83BEaF68078394d4B13213f
